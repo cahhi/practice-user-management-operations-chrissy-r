@@ -1,0 +1,2 @@
+-I learned that SQL queries can be written to help answer questions no matter how large the database is. Using complex queries helps to JOIN tables together by their Primary/Foreign keys. 
+-The most challenging part of this practice was understanding logic. Writing queries can be long and often have other SELECT statements nestled inside. I had to slow down and really talk through what I was doing and what I wanted my end goal to be.
